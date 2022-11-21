@@ -1,2 +1,1 @@
-# me
-About me
+print('Hello, world!')
